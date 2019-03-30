@@ -36,5 +36,5 @@ $ waybackurls example.com
 ### Download Source Code
 ```
 $ waybackurls example.com > domains.txt
-for line in `cat domains.txt`; do wget $line; done
+$ for line in `cat domains.txt`; do wget $line; done
 ```
