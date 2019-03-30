@@ -1,0 +1,28 @@
+# Web Reconnaissance
+
+## Techniques
+
+### Wayback Machine
+
+> Replace example.com with any domain
+
+`http://web.archive.org/cdx/search/cdx?url=example.com*&output=text&fl=original&collapse=urlkey`
+
+To make things a bit easier, make an alias in `~/.bashrc` or `~/.bash_aliases`
+
+```
+waybackurls() {                                                                 
+    curl --silent "http://web.archive.org/cdx/search/cdx?url=$1*&output=text&fl=original&collapse=urlkey"               
+}
+```
+
+Usage:
+```
+$ waybackurls example.com
+```
+
+#### Download Source Code
+```
+$ waybackurls example.com > domains.txt
+for line in `cat domains.txt`; do wget $line; done
+```
