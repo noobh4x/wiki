@@ -11,3 +11,7 @@ Google dorks can also be helpful
 ```
 site:[domain] inurl:"option=com_"
 ```
+
+## Tools
+
+* [OWASP JoomScan Project](https://github.com/rezasp/joomscan)
