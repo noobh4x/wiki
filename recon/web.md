@@ -1,22 +1,20 @@
 # Web Reconnaissance
 
-## Techniques
-
-### Google Hacking
+## Google Hacking
 
   * [Google Hacking](https://github.com/noobh4x/wiki/blob/master/recon/google-hacking.md)
 
-### User Enumeration
+## User Enumeration
 
-#### Verbose error messages on failed logins
+**Verbose error messages on failed logins**
 
 When attempting to log in, some sites will return verbose errors disclosing if the user was found in their system or not.
 
-#### Password recovery
+**Password recovery**
 
 Using the password recovery will in many situations (in)directly tell if the username/email was found.
 
-### Wayback Machine
+## Wayback Machine
 
 > Replace example.com with any domain
 
@@ -35,7 +33,7 @@ Usage:
 $ waybackurls example.com
 ```
 
-#### Download Source Code
+### Download Source Code
 ```
 $ waybackurls example.com > domains.txt
 for line in `cat domains.txt`; do wget $line; done
