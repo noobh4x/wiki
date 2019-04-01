@@ -1,5 +1,7 @@
 # Resources
 
+The following is a list of resources I stumbled across. They are not listed in any particular order
+
 ## Articles
 
   * [So you want to infosec? (Part 1/3)](https://sneakerhax.com/so-you-want-to-infosec/)
