@@ -29,6 +29,8 @@
   * http://opensecuritytraining.info
   * https://pentesterlab.com/
   * https://www.owasp.org/index.php/Main_Page
+  * http://pwnwiki.io/#!index.md
+
 ### Hands-On
 
   * https://ringzer0team.com/
