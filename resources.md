@@ -56,3 +56,4 @@
 ## Misc
 
   * https://www.exploit-db.com/
+  * https://github.com/JohnHammond/ctf-katana
