@@ -8,6 +8,10 @@ The following is a list of resources I stumbled across. They are not listed in a
   * [So you still want to infosec? (Part 2/3)](https://sneakerhax.com/so-you-still-want-to-infosec/)
   * [So you're still infosecing? (Part 3/3)](https://sneakerhax.com/so-youre-still-infosecing/)
 
+### Recon
+
+  * [What tools I use for my recon during #BugBounty](https://medium.com/bugbountywriteup/whats-tools-i-use-for-my-recon-during-bugbounty-ec25f7f12e6d) - [@Adrien](https://medium.com/@adrien_jeanneau)
+
 ## Podcasts
 
   * https://pentester.land/
