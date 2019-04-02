@@ -7,7 +7,8 @@ The following is a list of resources I stumbled across. They are not listed in a
   * [So you want to infosec? (Part 1/3)](https://sneakerhax.com/so-you-want-to-infosec/)
   * [So you still want to infosec? (Part 2/3)](https://sneakerhax.com/so-you-still-want-to-infosec/)
   * [So you're still infosecing? (Part 3/3)](https://sneakerhax.com/so-youre-still-infosecing/)
-  * [Subdomain Takeover: Proof Creation for Bug Bounties](https://0xpatrik.com/takeover-proofs/)
+  * [Subdomain Takeover: Thoughts on Risks](https://0xpatrik.com/subdomain-takeover/)
+    * [Subdomain Takeover: Proof Creation for Bug Bounties](https://0xpatrik.com/takeover-proofs/)
 
 ### Recon
 
