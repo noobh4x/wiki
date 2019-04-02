@@ -27,6 +27,7 @@ The following is a list of resources I stumbled across. They are not listed in a
 
 ### Theory
 
+  * https://github.com/nixawk/pentest-wiki
   * http://www.securitytube.net/
   * https://nets.ec/Main_Page (Previously known as Blackhat Library)
   * https://www.corelan.be/index.php/articles/
