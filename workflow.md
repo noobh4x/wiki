@@ -1,5 +1,7 @@
 # Workflow
 
+I have not yet developed a good workflow, so as of now this is only general notes
+
 ## Recon
 
 ### Process
