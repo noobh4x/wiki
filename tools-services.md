@@ -11,5 +11,6 @@ List of tools and services, mainly online, that can be used for info sec purpose
 | [GTFOBins](https://gtfobins.github.io/) | Curated list of Unix binaries that can be exploited by an attacker to bypass local security restrictions |
 | [LOLBas](https://lolbas-project.github.io/) | The goal of the LOLBAS project is to document every binary, script, and library that can be used for Living Off The Land techniques. |
 | [Try It Online](https://tio.run) | Online interpreters for an evergrowing list of practical and recreational programming languages. |
+| [URLScan](https://urlscan.io/) | Scan and analyse websites |
 
 ## Tools
