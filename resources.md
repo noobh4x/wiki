@@ -14,8 +14,9 @@ The following is a list of resources I stumbled across. They are not listed in a
 
   * [What tools I use for my recon during #BugBounty](https://medium.com/bugbountywriteup/whats-tools-i-use-for-my-recon-during-bugbounty-ec25f7f12e6d) - [@Adrien](https://medium.com/@adrien_jeanneau)
 
-## Podcasts
+## Blogs & Podcasts
 
+  * https://0xpatrik.com/
   * https://pentester.land/
   * https://blog.pentesterlab.com/
   * https://securityweekly.com/
