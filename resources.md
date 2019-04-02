@@ -9,6 +9,7 @@ The following is a list of resources I stumbled across. They are not listed in a
   * [So you're still infosecing? (Part 3/3)](https://sneakerhax.com/so-youre-still-infosecing/)
   * [Subdomain Takeover: Thoughts on Risks](https://0xpatrik.com/subdomain-takeover/)
     * [Subdomain Takeover: Proof Creation for Bug Bounties](https://0xpatrik.com/takeover-proofs/)
+  * [A Guide To Subdomain Takeovers](https://www.hackerone.com/blog/Guide-Subdomain-Takeovers)
 
 ### Recon
 
