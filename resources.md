@@ -42,6 +42,11 @@ The following is a list of resources I stumbled across. They are not listed in a
   * https://www.owasp.org/index.php/Main_Page
   * http://pwnwiki.io/#!index.md
 
+### Writeups
+
+  * **Bounties**
+    * [Chaining Multiple Vulnerabilities + WAF bypass to Account Takeover in almost all Alibaba’s websites](https://medium.com/@y.shahinzadeh/chaining-multiple-vulnerabilities-waf-bypass-to-account-takeover-in-almost-all-alibabas-websites-f8643eaa2855)
+
 ### Hands-On
 
   * https://ringzer0team.com/
